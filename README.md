@@ -25,6 +25,3 @@ Nosso projeto do Terraform é composto pela seguinte estrutura: Deploy de aplica
 Depois criamos uma métrica no CloudWatch baseada no uso de CPU. Se o uso de CPU está maior que 85% por 2 períodos, a trigger de alarm_actionexecuta a política de Scale Up. Se retornar para o estado Ok, irá executar a política de Scale Down.
 
 
-Escolhir este projeto pois tenho mais familiaridade. Não concluir tarefa de criar em outro cloud com VPN devido. Tenho condiçoes de executar esta atividade. Gostaria de agradecer opotunidade . 
-
-Utilizei uma imagem pronta . Entao nao criei codigo completo mas tenho capacidade de criar infra pra suporta tanto back quanto front . 
